@@ -20,7 +20,7 @@ DuoCLI is a complete German language learning application built for the terminal
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone git@github.com:marcusziade/duocli.git
 cd duocli
 
 # Install dependencies
